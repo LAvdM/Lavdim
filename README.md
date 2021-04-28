@@ -1,2 +1,0 @@
-# Lavdim
-ATTACK
